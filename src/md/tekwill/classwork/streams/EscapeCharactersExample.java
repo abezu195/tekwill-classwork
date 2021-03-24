@@ -1,4 +1,4 @@
-package md.tekwill.system.streams;
+package md.tekwill.classwork.streams;
 
 public class EscapeCharactersExample {
     public static void main(String[] args) {

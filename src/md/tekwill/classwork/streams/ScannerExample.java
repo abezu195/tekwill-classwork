@@ -1,4 +1,4 @@
-package md.tekwill.system.streams;
+package md.tekwill.classwork.streams;
 
 import java.util.Scanner;
 
