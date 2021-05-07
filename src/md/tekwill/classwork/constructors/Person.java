@@ -2,7 +2,7 @@ package md.tekwill.classwork.constructors;
 
 public class Person {
     private String name;
-    int age;
+    private int age;
 
     public Person() {
 //        System.out.println("no-args constructor called!"); won't compile because this must be the first statement in a constructor
