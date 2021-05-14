@@ -1,4 +1,4 @@
-package md.tekwill.homeworksolutions;
+package md.tekwill.homeworksolutions.test2;
 
 public class ProperIndentation {
     public static void main(String[] args) {
