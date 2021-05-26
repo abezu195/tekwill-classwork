@@ -1,7 +1,5 @@
 package md.tekwill.classwork.interfaces;
 
-public interface Readable {
+public interface MindReader {
     void read();
-
-    void openBook();
 }

@@ -1,6 +1,6 @@
 package md.tekwill.classwork.interfaces;
 
-public class RegularPerson implements Runnable, Readable /* a class can implement multiple interfaces*/ {
+public class RegularPerson implements Runner, Reader, MindReader /* a class can implement multiple interfaces*/ {
 
     @Override
     public void run() {
@@ -12,8 +12,7 @@ public class RegularPerson implements Runnable, Readable /* a class can implemen
         System.out.println("A regular person is reading with normal speed!");
     }
 
-    @Override
-    public void openBook() {
-        System.out.println("Opening a random book!");
+    public static String getSurname() {
+        return "Smith";
     }
 }
